@@ -4,3 +4,6 @@
   tasks:
   - shell: id
   - shell: hostname
+  - name: This is debug to print
+    debug:
+      msg: "sample out"
