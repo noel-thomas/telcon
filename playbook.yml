@@ -7,3 +7,8 @@
   - name: This is debug to print
     debug:
       msg: "GTR"
+
+  - name: create user
+    user:
+      name: rico
+      state: present
