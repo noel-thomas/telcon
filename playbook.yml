@@ -6,7 +6,7 @@
   - shell: hostname
   - name: This is debug to print
     debug:
-      msg: "GTR"
+      msg: "GTR DO446 Kyndryl"
 
   - name: create user
     user:
