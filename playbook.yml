@@ -1,7 +1,0 @@
----
-- name: sample play
-  hosts: all
-  tasks:
-  - shell: id
-  - shell: id
-  - shell: id
