@@ -6,6 +6,6 @@
   - shell: hostname
   - name: This is debug to print
     debug:
-      msg: "GTR DO446 Kyndryl"
+      msg: "GTR DO446 APAC"
 
   - ping:
