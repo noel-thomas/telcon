@@ -2,8 +2,6 @@
 - name: sample play
   hosts: all
   tasks:
-  - shell: id
-  - shell: hostname
   - name: This is debug to print
     debug:
       msg: "GTR DO446 APAC"
