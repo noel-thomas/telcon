@@ -6,5 +6,5 @@
     debug:
       msg: "GTR DO446 APAC"
 
-  - name: HSBC update
-    ping:
+  - name: install httpd
+
