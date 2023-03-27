@@ -7,4 +7,4 @@
       msg: "GTR DO446 APAC"
 
   - name: install httpd
-
+    ping:
