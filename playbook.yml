@@ -8,3 +8,8 @@
 
   - name: install httpd
     ping:
+
+
+- name: new BOA play
+  debug:
+    msg: newfeature added
